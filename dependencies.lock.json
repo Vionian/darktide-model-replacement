@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "verified_on": "2026-10-28",
+  "sdk": {
+    "repository": "https://github.com/fviuff/Darktide-SDK",
+    "tag": "SDK",
+    "source_commit": "99d25e14bb3bfc67127f0a85f35a9ccb19774695",
+    "url": "https://github.com/fviuff/Darktide-SDK/releases/download/SDK/DarktideGLBCompiler-x64.zip",
+    "sha256": "d5b546f910dc4861617fb3e620481d002d2d55db1704418c3f3bf0206e128842",
+    "license": "GPL-3.0"
+  },
+  "limn": {
+    "repository": "https://github.com/manshanko/limn",
+    "tag": "0.7.2",
+    "source_commit": "ca9a36b64be908d105a3a7ddb6022f726e5a1f2b",
+    "url": "https://github.com/manshanko/limn/releases/download/0.7.2/limn-0.7.2-x86_64-pc-windows-msvc.zip",
+    "sha256": "df89b4ffc0ef9a5ce00f339078f174a7ac9c5dfa29b1e34fba260fbdb9d1c997",
+    "license": "MIT OR Apache-2.0"
+  },
+  "mmr": {
+    "repository": "https://github.com/XiaoFFGe/MikuMikuRig",
+    "source_commit": "5fbdc51183d3e76c2424dea9c47d78a02d3347f3",
+    "url": "https://codeload.github.com/XiaoFFGe/MikuMikuRig/zip/5fbdc51183d3e76c2424dea9c47d78a02d3347f3",
+    "sha256": "d001d2fce291f4ca15ceb74faa4ba6997eca13de1acf93fda5b401d28ebf1824",
+    "license": "GPL-3.0"
+  }
+}

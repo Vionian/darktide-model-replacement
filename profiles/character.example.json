@@ -1,0 +1,11 @@
+{
+  "id": "my_character",
+  "kind": "character",
+  "meshes": [],
+  "bone_map": {},
+  "keep_proportions": false,
+  "keep_torso_shape": false,
+  "materials": {},
+  "first_person_meshes": [],
+  "supported_breeds": ["human", "cryptic"]
+}

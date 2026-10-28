@@ -1,0 +1,1477 @@
+[
+  {
+    "path": "toolbox/character/adapt_skins.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/assemble_native_evidence_20261024.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/audit_aitela_hair_follow_20261024.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/audit_endfield_defect_fixes.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/audit_endfield_dynamic_surface.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/audit_endfield_hand_optimization.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/audit_endfield_motion_bounds.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/audit_endfield_native.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/audit_endfield_reference_hands.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/audit_endfield_surface_stability.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/audit_installed_native_repair_20261024.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/audit_issue_collision.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/audit_new_skin.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/audit_perlica_interior.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/audit_roshia_animation_bind.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/audit_roshia_hd2_adapt.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/audit_roshia_native_contacts.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/audit_roshia_native_surface.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/audit_roshia_source_hands.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/audit_roshia_surface_fix.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/audit_roshia_trs_fix.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/audit_si_ink_surfaces.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/bake_endfield_face_albedo.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/batch_new_skins.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/build_endfield_native.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/build_endfield_wave3_portraits.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/build_new_skin.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/build_one_endfield_candidate.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/build_roshia_native.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/build_screenshot_portraits.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/check_new_skins.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/classify_anatomical_hand_surfaces_20261024.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/compare_perlica_interior.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/compare_roshia_hand_contract.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/compare_roshia_rigs.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/compare_roshia_winding.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/compile_endfield_wave3_portraits.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/compile_screenshot_portraits.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/compose_roshia_contact_previews.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/compose_roshia_face_previews.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/compose_roshia_hd2_previews.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/compose_roshia_surface_previews.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/convert_si_costumes.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/convert_si_ink_mist.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/costume_anatomical_domains.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/costume_arm_heat_weights.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/costume_cuff_fit.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/costume_fp_clearance.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/costume_geometry_audit.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/costume_hand_weights.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/costume_native_arm_fit.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/costume_original_hand_weights.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/costume_surface_edge_audit.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/costume_wrist_continuity.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/diagnose_costume_arm_deformation_20261024.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/diagnose_endfield_face_hull.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/diagnose_endfield_wave3_geometry.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/diagnose_endfield_wave3_nan.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/diagnose_new_skin.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/diagnose_roshia_collision.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/diagnose_roshia_face_slots.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/diagnose_roshia_reference.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/diagnose_roshia_tail.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/document_new_skins.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/eff_skin_reader.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/efmi_draws.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/endfield_arm_policy.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/endfield_face_materials.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/endfield_face_outline.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/endfield_hand_detail.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/endfield_mmr_hands.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/endfield_profiles.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/endfield_skin_weights.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/endfield_surface_materials.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/endfield_wave2.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/endfield_wave3.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/export_skin_references.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/extract_hd2_roshia_reference.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/hand_repair_reference_sheet.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_cmb_face_uvs.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_costume_hand_domains_20261024.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_costume_hand_edges.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_cuff_edge_weights_20261024.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_darktide_textures.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_eff_res.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_endfield_batch.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_endfield_channels.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_endfield_color_path.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_endfield_defects.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_endfield_face_refinement.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_endfield_hand_weights.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_endfield_lash_albedo.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_endfield_outline.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_endfield_wave2.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_endfield_wave2_materials.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_endfield_wave2_shading.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_endfield_wave3.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_endfield_wave3_materials.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_endfield_weights.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_inkwash_coverage_20261024.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_issue_sleeves.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_legacy_hand_material_20261024.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_nail_coverage_20261024.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_new_skins.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_portrait_source.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_roshia_animation_data.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_roshia_arm_weights.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_roshia_hand_bones.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_roshia_mapping.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_roshia_surface.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_roshia_tail_contact.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_roshia_weights.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_saixi_stocking_shader.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_serialized_sleeve_materials_20261024.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_si_costumes.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_si_ink_mist.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_si_sleeves.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_si_surfaces.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_sleeve_chain_domains_20261024.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_source_garment_components_20261024.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_source_sleeve_20261024.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/inspect_source_viewport.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/integrate_endfield_batch.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/integrate_endfield_wave2.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/integrate_endfield_wave3.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/integrate_new_skins.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/measure_endfield_wave2_colors.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/measure_portrait_bounds.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/native_garment_sides.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/native_texture.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/new_skin_runtime_block.lua",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/new_skin_settings.lua",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/patch_endfield_garment_sides.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/patch_perlica_torso_lining.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/patch_preview_scene_ownership.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/perlica_comparison_sheet.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/perlica_torso_lining.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/pilot_costume_arm_heat_20261024.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/prepare_endfield_wave2_deploy.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/preview_endfield_source_face.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/preview_issue_actions.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/preview_native_hands_20261024.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/preview_roshia_native.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/preview_si_ink_source.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/preview_uncompressed_cuff_20261024.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/probe_costume_hand_palettes.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/probe_skin_bone_aliases.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/probe_skin_source_images.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/probe_skins.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/read_hd2_reference_meshes.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/read_native_texture.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/rebuild_issue_arms.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/refine_source_shoulder_ownership_20261024.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/refresh_endfield_wave2_colors.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/render_hd2_extracted_reference.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/render_perlica_interior.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/render_portrait_contact_sheet.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/render_source_portraits.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/repair_chenqianyu_hand_material_20261024.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/repair_component_owned_sleeves_20261024.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/repair_final_sleeve_residuals_20261024.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/repair_ink_mist_hand_material_20261024.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/repair_native_hands_20261024.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/repair_nonarm_garment_bindings_20261024.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/repair_sleeve_chain_bindings_20261024.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/repair_sleeve_heat_bindings_20261024.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/repair_sleeve_segment_bindings_20261024.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/repair_sleeve_skin_transfer_20261024.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/review_costume_authoring_20261024.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/review_native_actions_20261024.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/review_native_bodies_20261024.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/review_native_candidates_20261024.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/roshia_hand_fit.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/roshia_native_hand_surface.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/roshia_native_materials.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/roshia_proportion_rig.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/roshia_shoulder_fit.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/roshia_tail_core.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/roshia_tail_fur.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/run_endfield_wave2.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/run_endfield_wave3.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/run_native_hand_previews_20261024.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/run_new_skins.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/si_costume_detail.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/si_costume_materials.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/si_ink_mist_cutouts.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/si_ink_mist_ink_wings.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/si_ink_mist_materials.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/skins_20261023_inventory.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/skins_geometry.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/skins_sources.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/summarize_endfield_batch.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/summarize_endfield_face_refinement.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/summarize_endfield_hands.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/summarize_endfield_wave2.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/summarize_skins_draws.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/test_issue_head_turn.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/test_native_equipment_lifecycle.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/test_new_skin_contacts.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/test_new_skins.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/test_portrait_framing.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/test_preview_lifecycle.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/test_preview_scene_ownership.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/test_replacement_routing.lua",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/test_roshia_contacts.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/test_roshia_fp_hands.lua",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/test_roshia_proportion_runtime.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/test_roshia_thumb_fit.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/test_roshia_weapon_links.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/test_screenshot_portraits.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/test_si_outfit.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/validate_endfield_clean_share.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/validate_endfield_five_package.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/validate_endfield_integration.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/validate_endfield_wave2_integration.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/validate_endfield_wave3_integration.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/validate_issue_repairs.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/validate_native_hands_20261024.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/validate_perlica_interior.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/validate_roshia_mods_drop.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/validate_roshia_test_package.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/validate_share_variants.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/verify_endfield_face_deployment.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/verify_endfield_wave3_deployment.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/character/verify_issue_deployment.py",
+    "source_project": "character",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/weapon/audit_textures.py",
+    "source_project": "weapon",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/weapon/blade_edge_geometry.py",
+    "source_project": "weapon",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/weapon/build_blade_edge_assets.py",
+    "source_project": "weapon",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/weapon/build_ice_fx.py",
+    "source_project": "weapon",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/weapon/build_langzhifei_pose.py",
+    "source_project": "weapon",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/weapon/build_revision_scene.py",
+    "source_project": "weapon",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/weapon/build_weapon_scene.py",
+    "source_project": "weapon",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/weapon/build_wolf_violet_fx.py",
+    "source_project": "weapon",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/weapon/extract_khravengger.py",
+    "source_project": "weapon",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/weapon/fetch_compiler.py",
+    "source_project": "weapon",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/weapon/inspect_force_sword_pose.py",
+    "source_project": "weapon",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/weapon/inspect_langzhifei.py",
+    "source_project": "weapon",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/weapon/inspect_material.py",
+    "source_project": "weapon",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/weapon/inspect_reference.py",
+    "source_project": "weapon",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/weapon/inspect_revision_assets.py",
+    "source_project": "weapon",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/weapon/measure_blade_edge.py",
+    "source_project": "weapon",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/weapon/measure_force_sword_pose.py",
+    "source_project": "weapon",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/weapon/measure_reference.py",
+    "source_project": "weapon",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/weapon/merge_revision_assets.py",
+    "source_project": "weapon",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/weapon/particle_render_safety.py",
+    "source_project": "weapon",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/weapon/prepare_langzhifei.py",
+    "source_project": "weapon",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/weapon/prepare_materials.py",
+    "source_project": "weapon",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/weapon/preview_blade_edge.py",
+    "source_project": "weapon",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/weapon/preview_compiled_weapon.py",
+    "source_project": "weapon",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/weapon/preview_langzhifei_pose.py",
+    "source_project": "weapon",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/weapon/repair_charge_renderers.py",
+    "source_project": "weapon",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/weapon/test_blade_charge.lua",
+    "source_project": "weapon",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/weapon/test_charge_render_safety.py",
+    "source_project": "weapon",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/weapon/test_preview_lifecycle.lua",
+    "source_project": "weapon",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/weapon/test_registration.py",
+    "source_project": "weapon",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/weapon/test_registration_upgrade.py",
+    "source_project": "weapon",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/weapon/test_runtime.lua",
+    "source_project": "weapon",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/weapon/test_upgrade.lua",
+    "source_project": "weapon",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/weapon/verify_blade_charge.py",
+    "source_project": "weapon",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/weapon/verify_blade_edge.py",
+    "source_project": "weapon",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/weapon/verify_langzhifei_pose.py",
+    "source_project": "weapon",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/weapon/verify_upgrade.py",
+    "source_project": "weapon",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/weapon/verify_weapon_material_bindings.py",
+    "source_project": "weapon",
+    "status": "source-adapter: model-specific inputs must be regenerated"
+  },
+  {
+    "path": "toolbox/runtime/character/scripts/mods/AnimeModelReplacement/AnimeModelReplacement.lua",
+    "source_project": "character",
+    "status": "runtime reference: integrate and validate for the new profile"
+  },
+  {
+    "path": "toolbox/runtime/character/scripts/mods/AnimeModelReplacement/AnimeModelReplacement_data.lua",
+    "source_project": "character",
+    "status": "runtime reference: integrate and validate for the new profile"
+  },
+  {
+    "path": "toolbox/runtime/character/scripts/mods/AnimeModelReplacement/AnimeModelReplacement_localization.lua",
+    "source_project": "character",
+    "status": "runtime reference: integrate and validate for the new profile"
+  },
+  {
+    "path": "toolbox/runtime/character/scripts/mods/AnimeModelReplacement/costume_catalog.lua",
+    "source_project": "character",
+    "status": "runtime reference: integrate and validate for the new profile"
+  },
+  {
+    "path": "toolbox/runtime/character/scripts/mods/AnimeModelReplacement/model_definitions.lua",
+    "source_project": "character",
+    "status": "runtime reference: integrate and validate for the new profile"
+  },
+  {
+    "path": "toolbox/runtime/character/scripts/mods/AnimeModelReplacement/model_jiggle.lua",
+    "source_project": "character",
+    "status": "runtime reference: integrate and validate for the new profile"
+  },
+  {
+    "path": "toolbox/runtime/character/scripts/mods/AnimeModelReplacement/portrait_bounds.lua",
+    "source_project": "character",
+    "status": "runtime reference: integrate and validate for the new profile"
+  },
+  {
+    "path": "toolbox/runtime/character/scripts/mods/AnimeModelReplacement/portrait_framing.lua",
+    "source_project": "character",
+    "status": "runtime reference: integrate and validate for the new profile"
+  },
+  {
+    "path": "toolbox/runtime/character/scripts/mods/AnimeModelReplacement/preview_lifecycle.lua",
+    "source_project": "character",
+    "status": "runtime reference: integrate and validate for the new profile"
+  },
+  {
+    "path": "toolbox/runtime/character/scripts/mods/AnimeModelReplacement/relaxed_arms.lua",
+    "source_project": "character",
+    "status": "runtime reference: integrate and validate for the new profile"
+  },
+  {
+    "path": "toolbox/runtime/character/scripts/mods/AnimeModelReplacement/replacement_routing.lua",
+    "source_project": "character",
+    "status": "runtime reference: integrate and validate for the new profile"
+  },
+  {
+    "path": "toolbox/runtime/character/scripts/mods/AnimeModelReplacement/screenshot_portraits.lua",
+    "source_project": "character",
+    "status": "runtime reference: integrate and validate for the new profile"
+  },
+  {
+    "path": "toolbox/runtime/character/scripts/mods/AnimeModelReplacement/weapon_hand_sync.lua",
+    "source_project": "character",
+    "status": "runtime reference: integrate and validate for the new profile"
+  },
+  {
+    "path": "toolbox/runtime/character/scripts/mods/ModelReplacementRegistry/ModelReplacementRegistry.lua",
+    "source_project": "character",
+    "status": "runtime reference: integrate and validate for the new profile"
+  },
+  {
+    "path": "toolbox/runtime/character/scripts/mods/ModelReplacementRegistry/ModelReplacementRegistry_data.lua",
+    "source_project": "character",
+    "status": "runtime reference: integrate and validate for the new profile"
+  },
+  {
+    "path": "toolbox/runtime/character/scripts/mods/ModelReplacementRegistry/ModelReplacementRegistry_localization.lua",
+    "source_project": "character",
+    "status": "runtime reference: integrate and validate for the new profile"
+  },
+  {
+    "path": "toolbox/runtime/weapon/scripts/mods/WeaponModelReplacement/appearance.lua",
+    "source_project": "weapon",
+    "status": "runtime reference: integrate and validate for the new profile"
+  },
+  {
+    "path": "toolbox/runtime/weapon/scripts/mods/WeaponModelReplacement/catalog.lua",
+    "source_project": "weapon",
+    "status": "runtime reference: integrate and validate for the new profile"
+  },
+  {
+    "path": "toolbox/runtime/weapon/scripts/mods/WeaponModelReplacement/charge.lua",
+    "source_project": "weapon",
+    "status": "runtime reference: integrate and validate for the new profile"
+  },
+  {
+    "path": "toolbox/runtime/weapon/scripts/mods/WeaponModelReplacement/fx_manifest.lua",
+    "source_project": "weapon",
+    "status": "runtime reference: integrate and validate for the new profile"
+  },
+  {
+    "path": "toolbox/runtime/weapon/scripts/mods/WeaponModelReplacement/ice_colors.lua",
+    "source_project": "weapon",
+    "status": "runtime reference: integrate and validate for the new profile"
+  },
+  {
+    "path": "toolbox/runtime/weapon/scripts/mods/WeaponModelReplacement/ice_effects.lua",
+    "source_project": "weapon",
+    "status": "runtime reference: integrate and validate for the new profile"
+  },
+  {
+    "path": "toolbox/runtime/weapon/scripts/mods/WeaponModelReplacement/impact.lua",
+    "source_project": "weapon",
+    "status": "runtime reference: integrate and validate for the new profile"
+  },
+  {
+    "path": "toolbox/runtime/weapon/scripts/mods/WeaponModelReplacement/menu_order.lua",
+    "source_project": "weapon",
+    "status": "runtime reference: integrate and validate for the new profile"
+  },
+  {
+    "path": "toolbox/runtime/weapon/scripts/mods/WeaponModelReplacement/particle_controls.lua",
+    "source_project": "weapon",
+    "status": "runtime reference: integrate and validate for the new profile"
+  },
+  {
+    "path": "toolbox/runtime/weapon/scripts/mods/WeaponModelReplacement/selection.lua",
+    "source_project": "weapon",
+    "status": "runtime reference: integrate and validate for the new profile"
+  },
+  {
+    "path": "toolbox/runtime/weapon/scripts/mods/WeaponModelReplacement/viewmodel.lua",
+    "source_project": "weapon",
+    "status": "runtime reference: integrate and validate for the new profile"
+  },
+  {
+    "path": "toolbox/runtime/weapon/scripts/mods/WeaponModelReplacement/WeaponModelReplacement.lua",
+    "source_project": "weapon",
+    "status": "runtime reference: integrate and validate for the new profile"
+  },
+  {
+    "path": "toolbox/runtime/weapon/scripts/mods/WeaponModelReplacement/WeaponModelReplacement_data.lua",
+    "source_project": "weapon",
+    "status": "runtime reference: integrate and validate for the new profile"
+  },
+  {
+    "path": "toolbox/runtime/weapon/scripts/mods/WeaponModelReplacement/WeaponModelReplacement_localization.lua",
+    "source_project": "weapon",
+    "status": "runtime reference: integrate and validate for the new profile"
+  },
+  {
+    "path": "toolbox/runtime/weapon/scripts/mods/WeaponModelReplacement/wolf_colors.lua",
+    "source_project": "weapon",
+    "status": "runtime reference: integrate and validate for the new profile"
+  },
+  {
+    "path": "toolbox/runtime/weapon/scripts/mods/WeaponModelReplacement/wolf_fx_manifest.lua",
+    "source_project": "weapon",
+    "status": "runtime reference: integrate and validate for the new profile"
+  }
+]

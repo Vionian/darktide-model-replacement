@@ -1,0 +1,33 @@
+return {
+	classes = {
+		{ id = "veteran", title = "class_veteran", default_model = "QianxiaReplacement" },
+		{ id = "zealot", title = "class_zealot", default_model = "AimisiReplacement" },
+		{ id = "psyker", title = "class_psyker", default_model = "DaniyaReplacement" },
+		{ id = "adamant", title = "class_adamant", default_model = "none" },
+		{ id = "broker", title = "class_broker", default_model = "none" },
+		{ id = "cryptic", title = "class_cryptic", default_model = "none" },
+	},
+	models = {
+		{ id = "none", title = "model_none", breeds = {} },
+		-- cryptic uses the same player/human base units and joint names as human.
+		{ id = "AimisiReplacement", title = "model_aimisi", breeds = { human = true, cryptic = true } },
+		{ id = "DaniyaReplacement", title = "model_daniya", breeds = { human = true, cryptic = true }, has_options = true },
+		{ id = "QianxiaReplacement", title = "model_qianxia", breeds = { human = true, cryptic = true } },
+		{ id = "RoshiaReplacement", title = "model_roshia", breeds = { human = true, cryptic = true } },
+		{ id = "LizhiyanReplacement", title = "model_lizhiyan", breeds = { human = true, cryptic = true } },
+		{ id = "EndministratorReplacement", title = "model_endministrator_f", breeds = { human = true, cryptic = true } },
+		{ id = "SiReplacement", title = "model_si", breeds = { human = true, cryptic = true }, option_widgets = { 2 } },
+		{ id = "TyphoeaReplacement", title = "model_typhoea", breeds = { human = true, cryptic = true } },
+		{ id = "ChenqianyuReplacement", title = "model_chenqianyu", breeds = { human = true, cryptic = true } },
+		{ id = "GilbertaReplacement", title = "model_gilberta", breeds = { human = true, cryptic = true } },
+		{ id = "LiinoReplacement", title = "model_liino", breeds = { human = true, cryptic = true } },
+		{ id = "MifuReplacement", title = "model_mifu", breeds = { human = true, cryptic = true } },
+		{ id = "PerlicaReplacement", title = "model_perlica", breeds = { human = true, cryptic = true } },
+		{ id = "TangtangReplacement", title = "model_tangtang", breeds = { human = true, cryptic = true } },
+		{ id = "YvonneReplacement", title = "model_yvonne", breeds = { human = true, cryptic = true } },
+		{ id = "ZhuangfangyiReplacement", title = "model_zhuangfangyi", breeds = { human = true, cryptic = true } },
+		{ id = "AitelaReplacement", title = "model_aitela", breeds = { human = true, cryptic = true } },
+		{ id = "LaiwantingReplacement", title = "model_laiwanting", breeds = { human = true, cryptic = true } },
+		{ id = "SaixiReplacement", title = "model_saixi", breeds = { human = true, cryptic = true } },
+	},
+}

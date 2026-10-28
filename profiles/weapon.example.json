@@ -1,0 +1,15 @@
+{
+  "id": "my_weapon",
+  "kind": "weapon",
+  "meshes": [],
+  "target_templates": ["forcesword_p1_m1", "forcesword_p1_m2", "forcesword_p1_m3"],
+  "attachment_prefix": "content/weapons/player/melee/force_sword/attachments/",
+  "coordinate_frame_reviewed": false,
+  "alignment": {
+    "uniform_scale": 1.0,
+    "rotation_degrees": [0.0, 0.0, 0.0],
+    "source_grip": [0.0, 0.0, 0.0],
+    "target_grip": [0.0, 0.0, 0.0]
+  },
+  "materials": {}
+}
